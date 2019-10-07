@@ -1,0 +1,7 @@
+{
+    "name": "cdptw2e/firstpackage",
+    "description": "first package",
+    "require": {
+        "php": "^7.2"
+    }
+}
